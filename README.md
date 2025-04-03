@@ -27,7 +27,7 @@ Create stunning invoices instantly with this sleek, Instant Invoice Generator. D
 ```bash
 npm install
 ```
-### 4️⃣ Run the Application
+### 3️⃣ Run the Application
 ```bash
 npm run dev
 ```
